@@ -1,9 +1,9 @@
 package laboratoryexercisefinalsno2;
 
-public class Kepler extends Planet{
+public class Tulips extends Flowers{
     
     @Override
     public void Color(){
-        System.out.println("is look a like an earth.");
+        System.out.println("is beautiful and elegant.");
     }
 }
