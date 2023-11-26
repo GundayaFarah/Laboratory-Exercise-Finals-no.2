@@ -3,10 +3,10 @@ package laboratoryexercisefinalsno2;
 abstract class Planet {
     public abstract void Color();
     
-    public void Earth(){
-        System.out.print("The earth");
+    public void Rose(){
+        System.out.print("The rose");
     }
-    public void Kepler(){
-        System.out.print("The kepler");
+    public void Tulips(){
+        System.out.print("The tulips");
     }
 }
