@@ -1,9 +1,9 @@
 package laboratoryexercisefinalsno2;
 
-public class Earth extends Planet{
+public class Rose extends Flowers{
     
     @Override
     public void Color(){
-        System.out.println("is our home, our planet.);
+        System.out.println("red as blood.);
     }
 }
