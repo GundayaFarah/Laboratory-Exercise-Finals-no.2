@@ -1,6 +1,6 @@
 package laboratoryexercisefinalsno2;
 
-abstract class Planet {
+abstract class Flowers {
     public abstract void Color();
     
     public void Rose(){
